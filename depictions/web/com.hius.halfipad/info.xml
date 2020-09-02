@@ -1,0 +1,66 @@
+<package>
+	<id>com.hius.halfipad</id>
+	<name>HalFiPad</name>
+	<version>3.6.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<shortDescription>Bring modern gestures and many unique features to your iPhone.</shortDescription>
+	<descriptionlist>
+		<description>Features:</description>
+		<description><![CDATA[
+- iPhone X gestures (include Only Left, Only Right).<br/>
+- Miniature(similar iPhone X gestures): Reduce the ability to switch applications quickly when swiping left or right on the bottom edge.<br/>
+- Edge Protect (double swipe to gesture).<br/>
+- Status Bar: iPad, iPhone X, Calibrate, and Regular.<br/>
+- Battery Percentage with many options to customize.<br/>
+- Bottom Inset, Rounded Dock, AppSwitcher, Screen Corner.<br/>
+- Home Bar with many options to customize.<br/>
+- CC Animation, CC Grabber, CC Status Bar.<br/>
+- Screenshot buttons combination like iPhone X.<br/>
+- Lockscreen Shortcuts.<br/>
+- No Breadcrumbs.<br/>
+- iPad features: Floating Dock, Split View/Slide Over, Landscape App Style, New Grid Switcher, Picture in Picture.<br/>
+- Dark Keyboard, Higher Keyboard (with height custom), Non-Latin Keyboard (fix conflict right padding), No Gesture When Keyboard.<br/>
+- Camera UI (beta), Zoom and Flip Control like iPhone 11.<br/>
+- FaceID + Padlock Animation.<br/>
+- Fast Open App.<br/>
+- Landscape Orientation Lock.<br/>
+- Make SB Clean.<br/>
+- More Icon Dock.<br/>
+- No Dock Background.<br/>
+- No Icons Fly.<br/>
+- Reduce Rows.<br/>
+- Swipe To Screenshot: Two fingers at once swipe down from the status bar.<br/>
+- Per-App Customize.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>welcome.png</image>
+		</screenshot>
+		<screenshot>
+			<image>screen1.png</image>
+		</screenshot>
+		<screenshot>
+			<image>screen2.png</image>
+		</screenshot>
+		<screenshot>
+			<image>screen3.png</image>
+		</screenshot>
+		<screenshot>
+			<image>screen4.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>V3.6.1</change>
+		<change>Fix bugs and improve preferences.</change>
+	</changelog>
+</package>
