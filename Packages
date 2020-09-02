@@ -1,54 +1,20 @@
 Package: com.hius.halfipad
 Name: HalFiPad
-Version: 3.5.6
-Architecture: iphoneos-arm
-Description: Modern gestures, iPad features, and many unique features but lightweight and less battery drain.
-Maintainer: Hius <h.h.haiduog@gmail.com>
-Author: Hius <h.h.haiduog@gmail.com>
-Section: Tweaks
-Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipadvn
-Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
-Filename: debs/com.hius.halfipad_3.5.6_iphoneos-arm.deb
-Size: 56054
-MD5sum: 01056c91cdf373755e43f39dc6f2982a
-SHA1: e7f5a0053bd0e690177398a1e017f92f9677498c
-SHA256: 8e02609e904f6e2f80119a40268af96804fc3894620babaa31ec67b0eb76e5c4
-
-
-Package: com.hius.halfipad
-Name: HalFiPad
 Version: 3.6.1
 Architecture: iphoneos-arm
 Description: Modern gestures, iPad features, and many unique features but lightweight and less battery drain.
 Maintainer: Hius <h.h.haiduog@gmail.com>
 Author: Hius <h.h.haiduog@gmail.com>
 Section: Tweaks
-Depiction: https://cypous.github.io/depictions/web/?p=com.hius.halfipad
-SileoDepiction: https://cypous.github.io/repo/depictions/native/com.hius.halfipad/depiction.json
 Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipadvn
 Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
+Depiction: https://cypous.github.io/depictions/web/?p=com.hius.halfipad
+SileoDepiction: https://cypous.github.io/depictions/native/com.hius.halfipad/depiction.json
 Filename: debs/com.hius.halfipad_3.6.1_iphoneos-arm.deb
-Size: 70540
-MD5sum: 2d8bc9170e9f574fd396d6aa573ae523
-SHA1: 295db0a784d025934467fb507d24cc5d67221d84
-SHA256: a51bfd866f1db924373727755dbaa72c6c1d0726eee35cd0e4dff3e8ba5280a7
-
-
-Package: com.hius.halfipadvn
-Name: HalFiPad VN
-Version: 2020.8.23
-Architecture: iphoneos-arm
-Description: Cử chỉ hiện đại, tính năng iPad, và nhiều tính năng độc đáo khác, nhẹ và tiêu hao ít năng lượng.
-Maintainer: Hius <h.h.haiduog@gmail.com>
-Author: Hius <h.h.haiduog@gmail.com>
-Section: Tweaks
-Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipad
-Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
-Filename: debs/com.hius.halfipadvn_2020.8.23_iphoneos-arm.deb
-Size: 56392
-MD5sum: 916ca9fb5021c178a1b5180b1954cbb5
-SHA1: abfaecdd53303f0edab9d2f18a8753f816c10e7a
-SHA256: 988a7d80f0ded03a472ca51883da084bdc3bb080a03e2055d3bc9c002b168452
+Size: 70886
+MD5sum: 522e7a17cb0e3dd793164484c4beec45
+SHA1: 4ae54d63114aa78e8c2f52f0b8aeec19acf73528
+SHA256: e0759a69d9e6b899ec0ec08aa48d332f3530ecf063d3fc41706e0ba26f74b42f
 
 
 Package: com.hius.halfipadvn
@@ -61,11 +27,13 @@ Author: Hius <h.h.haiduog@gmail.com>
 Section: Tweaks
 Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipad
 Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
+Depiction: https://cypous.github.io/depictions/web/?p=com.hius.halfipadvn
+SileoDepiction: https://cypous.github.io/depictions/native/com.hius.halfipadvn/depiction.json
 Filename: debs/com.hius.halfipadvn_2020.8.25_iphoneos-arm.deb
-Size: 70910
-MD5sum: bd1ad23078507792ab45af90297b882c
-SHA1: 171140e3402cd3bc93d3d6c4dc2352e9b9ad919d
-SHA256: e0f57dda6cf33dd480446ea27217514b31bd0ef8c20b440c743bc4eade4c9939
+Size: 71052
+MD5sum: cabcb4066477ed0e744757c93ae57e91
+SHA1: 69e8a21e741f745a6b98c4225c0ce104cfa59c3e
+SHA256: 1559de0e50476d972ada7af75ace1abc02e28e315623c49e63cc19715119ae5e
 
 
 Package: com.hius.gesturesi11
@@ -78,6 +46,8 @@ Author: Hius <h.h.haiduog@gmail.com>
 Section: Tweaks
 Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.gesturesi11vn
 Icon: https://raw.githubusercontent.com/v-hius/Gesturesi11/master/Gesturesi11Prefs/Resources/icon%402x.png
+Depiction: https://cypous.github.io/depictions/web/?p=com.hius.gesturesi11
+SileoDepiction: https://cypous.github.io/depictions/native/com.hius.gesturesi11/depiction.json
 Filename: debs/com.hius.gesturesi11_3.5.2_iphoneos-arm.deb
 Size: 23438
 MD5sum: 4806d627f31fa2914ac0f349332dfbca
@@ -95,11 +65,13 @@ Author: Hius <h.h.haiduog@gmail.com>
 Section: Tweaks
 Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.gesturesi11vn
 Icon: https://raw.githubusercontent.com/v-hius/Gesturesi11/master/Gesturesi11Prefs/Resources/icon%402x.png
+Depiction: https://cypous.github.io/depictions/web/?p=com.hius.gesturesi11
+SileoDepiction: https://cypous.github.io/depictions/native/com.hius.gesturesi11/depiction.json
 Filename: debs/com.hius.gesturesi11_3.5.3_iphoneos-arm.deb
-Size: 24010
-MD5sum: 05c89df5d3f57ec9d97070c503514d8a
-SHA1: 088cae61efbb86dc0e8b83ae878ffe857924d646
-SHA256: f870aac020a56cba4cac21e109b0afc19f5e5985ef67ea9682194694240fbca4
+Size: 24168
+MD5sum: 072a657e21fb937fdba0ec5c40d93dca
+SHA1: 57081c61f23a5f88e3ba9bef47b213ecc73e048c
+SHA256: c2c552801c8ab226113b569318dfb936f36a055ec10266cbd76719fe05518e76
 
 
 Package: com.hius.gesturesi11vn
@@ -112,11 +84,13 @@ Author: Hius <h.h.haiduog@gmail.com>
 Section: Tweaks
 Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.gesturesi11
 Icon: https://raw.githubusercontent.com/v-hius/Gesturesi11/master/Gesturesi11Prefs/Resources/icon%402x.png
+Depiction: https://cypous.github.io/depictions/web/?p=com.hius.gesturesi11vn
+SileoDepiction: https://cypous.github.io/depictions/native/com.hius.gesturesi11vn/depiction.json
 Filename: debs/com.hius.gesturesi11vn_2020.8.19_iphoneos-arm.deb
-Size: 24212
-MD5sum: fadfa0bd44e5573c1cdf222538b8b8d1
-SHA1: 05161fbf381d107fcad8cd84bc0549d3a13a70f6
-SHA256: 4bf027e32dd35cb0b41086c1dc2dba6648ee097ad7575b6727bc3852cfd211a6
+Size: 24364
+MD5sum: a3a75ae8bb28a1bafe48d8ba6764fa1a
+SHA1: 9fddd6255fb21c6e51dfc528accd5a086ef42aee
+SHA256: 28435805b03732fd1b65653bfd743dc2d2e7b385ea4dd9f8dd0bd50fdc390c22
 
 
 Package: com.hius.simplex
@@ -238,3 +212,18 @@ Size: 14848
 MD5sum: 76bdf47e87cd9169db4a656348190b5c
 SHA1: 7ab58ec18a35e9a781c40c7325109bc2b9c43041
 SHA256: 142904c8de2764df8e5c6b2b087883f384ad3372007d0d4465d1d6cd92b2586a
+
+
+Package: com.hius.pubgme
+Name: TryHackPubg
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Antiban Pubg 0.19
+Maintainer: null
+Author: null
+Section: Tweaks
+Filename: debs/com.hius.pubgme.deb
+Size: 947228
+MD5sum: 883a8fcd32fcecf3883ab3c2fa1cc420
+SHA1: 2e4aca95187792ad15c63ee7ed3d2bfcd79ad5f3
+SHA256: e8832f1ac7708df3f1765e5793f8e1c1656b467edd940c8bac2de164d4221d5b

@@ -62,5 +62,6 @@
 	<changelog>
 		<change>V2020.8.25</change>
 		<change>Sửa lỗi, cải tiến.</change>
+		<change>Đặt lại tất cả cài đặt nếu bạn gắp bất kỳ vấn đề gì.</change>
 	</changelog>
 </package>

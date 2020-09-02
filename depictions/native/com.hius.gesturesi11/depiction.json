@@ -1,85 +1,78 @@
 {
-	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/syns/repo.me/master/assets/Banners/RepoHeader.png",
-	"tintColor": "#ffae8e",
-	"tabs": [
-		{
-			"tabname": "Details",
-			"views": [
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "## TWEAK_NAME\nSHORT_DESCRIPTION"
-				},
-				{
-					"class": "DepictionSeparatorView"
-				},
-				{
-					"title": "Latest Version",
-					"class": "DepictionHeaderView"
-				},
-				{
-					"title": "Version",
-					"text": "VERSION_NUMBER",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Released",
-					"text": "RELEASE_DATE",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Price",
-					"text": "PRICE",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Developer",
-					"text": "DEVELOPER_NAME",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Website",
-					"action": "WEBSITE_HERE",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"title": "Use This Template",
-					"action": "https://github.com/syns/repo.me",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"spacing": 16,
-					"class": "DepictionSpacerView"
-				},
-				{
-					"spacing": 20,
-					"class": "DepictionSpacerView"
-				}
-			],
-			"class": "DepictionStackView"
-		},
-		{
-			"tabname": "Changelog",
-			"views": [
-				{
-					"title": "VERSION_NUMBER",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 UPDATE_DESCRIPTION",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released RELEASE_DATE</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				}
-			],
-			"class": "DepictionStackView"
-		}
-	],
-	"class": "DepictionTabView"
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "useBottomMargin": false,
+                    "useBoldText": true,
+                    "title": "Gesturesi11",
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Modern gestures and other options, lightweight and less battery drain.",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "screenshots": [
+                        {
+                            "url": "",
+                            "accessibilityText": "Screenshot0"
+                        }
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "useBottomMargin": false,
+                    "markdown": "- iPhone X gestures.\r\n- Miniature(similar iPhone X gestures): Reduce the ability to switch applications quickly when swiping left or right on the bottom edge.\r\n- Status Bar: iPhone X, Calibrate, and Regular.\r\n- Battery Percentage Custom.\r\n- Bottom Inset, Rounded Dock-App Switcher, Screen Corner.\r\n- Home Bar.\r\n- CC Status Bar.\r\n- Screenshot buttons combination like iPhone X.\r\n- Lockscreen Shortcuts.\r\n- No Breadcrumbs.\r\n- Dark Keyboard, Higher Keyboard, Non-Latin Keyboard (fix conflict right padding), No Gesture When Keyboard.\r\n- Zoom and Flip Control like iPhone 11.\r\n- Reduce Rows.",
+                    "useBoldText": true,
+                    "title": "markdown-description",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "3.5.3",
+                    "title": "Version"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "09-02-2020",
+                    "title": "Released"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Free",
+                    "title": "Price"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Hius",
+                    "title": "Developer"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "tabname": "Details"
+        }
+    ],
+    "minVersion": "0.1",
+    "headerImage": "",
+    "tintColor": "#0657bb",
+    "class": "DepictionTabView"
 }

@@ -62,5 +62,6 @@
 	<changelog>
 		<change>V3.6.1</change>
 		<change>Fix bugs and improve preferences.</change>
+		<change>Reset preferences if you have any issues.</change>
 	</changelog>
 </package>

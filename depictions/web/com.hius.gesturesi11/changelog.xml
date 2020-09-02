@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>3.5.3</version>
+		<change>Update and Fix bugs.</change>
+	</changes>
+	<changes>
 		<version>3.5.2</version>
 		<change>Fix bugs.</change>
 	</changes>

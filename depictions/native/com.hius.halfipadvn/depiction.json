@@ -1,85 +1,94 @@
 {
-	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/syns/repo.me/master/assets/Banners/RepoHeader.png",
-	"tintColor": "#ffae8e",
-	"tabs": [
-		{
-			"tabname": "Details",
-			"views": [
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "## TWEAK_NAME\nSHORT_DESCRIPTION"
-				},
-				{
-					"class": "DepictionSeparatorView"
-				},
-				{
-					"title": "Latest Version",
-					"class": "DepictionHeaderView"
-				},
-				{
-					"title": "Version",
-					"text": "VERSION_NUMBER",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Released",
-					"text": "RELEASE_DATE",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Price",
-					"text": "PRICE",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Developer",
-					"text": "DEVELOPER_NAME",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Website",
-					"action": "WEBSITE_HERE",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"title": "Use This Template",
-					"action": "https://github.com/syns/repo.me",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"spacing": 16,
-					"class": "DepictionSpacerView"
-				},
-				{
-					"spacing": 20,
-					"class": "DepictionSpacerView"
-				}
-			],
-			"class": "DepictionStackView"
-		},
-		{
-			"tabname": "Changelog",
-			"views": [
-				{
-					"title": "VERSION_NUMBER",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 UPDATE_DESCRIPTION",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released RELEASE_DATE</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				}
-			],
-			"class": "DepictionStackView"
-		}
-	],
-	"class": "DepictionTabView"
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "useBottomMargin": false,
+                    "useBoldText": true,
+                    "title": "HalFiPad VN",
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Mang c\u1eed ch\u1ec9 hi\u1ec7n \u0111\u1ea1i, t\u00ednh n\u0103ng iPad v\u00e0 nhi\u1ec1u t\u00ednh n\u0103ng \u0111\u1ed9c \u0111\u00e1o \u0111\u1ebfn iPhone c\u1ee7a b\u1ea1n.",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "screenshots": [
+                        {
+                            "url": "https://github.com/cypous/cypous.github.io/raw/master/depictions/web/com.hius.halfipadvn/screenshots/w.png",
+                            "accessibilityText": "Screenshot0"
+                        },
+                        {
+                            "url": "https://github.com/cypous/cypous.github.io/raw/master/depictions/web/com.hius.halfipadvn/screenshots/s1.png",
+                            "accessibilityText": "Screenshot1"
+                        },
+                        {
+                            "url": "https://github.com/cypous/cypous.github.io/raw/master/depictions/web/com.hius.halfipadvn/screenshots/s2.png",
+                            "accessibilityText": "Screenshot2"
+                        },
+                        {
+                            "url": "https://github.com/cypous/cypous.github.io/raw/master/depictions/web/com.hius.halfipadvn/screenshots/s3.png",
+                            "accessibilityText": "Screenshot3"
+                        },
+                        {
+                            "url": "https://github.com/cypous/cypous.github.io/raw/master/depictions/web/com.hius.halfipadvn/screenshots/s4.png",
+                            "accessibilityText": "Screenshot4"
+                        }
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "useBottomMargin": false,
+                    "markdown": "- C\u1eed ch\u1ec9 iPhone X(bao g\u1ed3m ch\u1ec9 d\u00f9ng c\u1eed b\u00ean tr\u00e1i ho\u1eb7c b\u00ean ph\u1ea3i).\r\n- C\u1eed ch\u1ec9 thu nh\u1ecf(t\u01b0\u01a1ng t\u1ef1 c\u1eed ch\u1ec9 iPhone X): Gi\u1ea3m kh\u1ea3 n\u0103ng chuy\u1ec3n \u0111\u1ed5i \u1ee9ng d\u1ee5ng nhanh ch\u00f3ng khi vu\u1ed1t sang tr\u00e1i ho\u1eb7c ph\u1ea3i \u1edf c\u1ea1nh d\u01b0\u1edbi.\r\n- Vu\u1ed1t c\u1eed ch\u1ec9 2 l\u1ea7n \u0111\u1ec3 \u0111a nhi\u1ec7m ho\u1eb7c ra m\u00e0n h\u00ecnh ch\u00ednh.\r\n- Thanh tr\u1ea1ng th\u00e1i: iPad, iPhone X, iPhone X*-11* \u0111\u00e3 hi\u1ec7u ch\u1ec9nh v\u00e0 m\u1eb7c \u0111\u1ecbnh.\r\n- Tu\u1ef3 ch\u1ec9nh ph\u1ea7n tr\u0103m pin.\r\n- N\u00e2ng \u0111\u00e1y(Bottom Inset), Bo tr\u00f2n Dock v\u00e0 th\u1ebb \u0111a nhi\u1ec7m \u1ee9ng d\u1ee5ng, bo tr\u00f2n g\u00f3c m\u00e0n h\u00ecnh.\r\n- Tu\u1ef3 ch\u1ec9nh thanh home.\r\n- Ho\u1ea1t \u1ea3nh khi t\u1eaft CC, Thanh g\u1ee3i \u00fd CC, thanh tr\u1ea1ng th\u00e1i trong CC (CC: trung t\u00e2m \u0111i\u1ec1u khi\u1ec3n).\r\n- K\u1ebft h\u1ee3p ph\u00edm ch\u1ee5p \u1ea3nh m\u00e0n h\u00ecnh nh\u01b0 iPhone X.\r\n- C\u00e1c ph\u00edm t\u1eaft b\u1eadt Camera + \u0110\u00e8n Flash nhanh \u1edf ngo\u00e0i m\u00e0n h\u00ecnh kho\u00e1.\r\n- T\u1eaft/B\u1eadt ph\u1ea7n quay l\u1ea1i nhanh \u1ee9ng d\u1ee5ng tr\u01b0\u1edbc \u0111\u00f3 (No Breadcrumbs).\r\n- T\u00ednh n\u0103ng iPad: Dock ki\u1ec3u iPad, Chia m\u00e0n h\u00ecnh, \u1ee8ng d\u1ee5ng xoay ngang ki\u1ec3u iPad, Th\u1ebb \u0111a nhi\u1ec3m ki\u1ec3u iPad, Thu nh\u1ecf/Hi\u1ec7n tr\u00ecnh ph\u00e1t video \u1edf m\u1ecdi n\u01a1i (Picture in Picture).\r\n- B\u00e0n ph\u00edm n\u1ec1n t\u1ed1i, B\u00e0n ph\u00edm cao h\u01a1n (tu\u1ef3 ch\u1ec9nh \u0111\u1ed9 cao b\u00e0n ph\u00edm), S\u1eeda l\u1ed7i cho b\u00e0n ph\u00edm ki\u1ec3u ch\u1eef non-latin, Kh\u00f4ng d\u00f9ng c\u1eed ch\u1ec9 khi d\u00f9ng b\u00e0n ph\u00edm.\r\n- Giao di\u1ec7n camera nh\u01b0 iPhone 11(th\u1eed nghi\u1ec7m), \u0110i\u1ec1u khi\u1ec3n thu ph\u00f3ng v\u00e0 l\u1eadt camera ki\u1ec3u m\u1edbi.\r\n- FaceID + \u1ed4 kho\u00e1 hi\u1ec3n th\u1ecb nh\u01b0 iPhone X.\r\n- Ho\u1ea1t c\u1ea3nh m\u1edf \u1ee9ng d\u1ee5ng nhanh.\r\n- Cho ph\u00e9p kho\u00e1 xoay ngang m\u00e0n h\u00ecnh.\r\n- \u1ea8n t\u00ean \u1ee9ng d\u1ee5ng, ch\u1ea5m trang, th\u00f4ng tin th\u1eddi ti\u1ebft.\r\n- T\u0103ng s\u1ed1 bi\u1ec3u t\u01b0\u1ee3ng Dock.\r\n- Dock trong su\u1ed1t.\r\n- Bi\u1ec3u t\u01b0\u1ee3ng n\u1eb1m y\u00ean khi m\u1edf kho\u00e1 m\u00e0n h\u00ecnh.\r\n- Gi\u1ea3m 1 h\u00e0ng bi\u1ec3u t\u01b0\u1ee3ng tr\u00ean m\u00e0n h\u00ecnh ch\u00ednh.\r\n- Vu\u1ed1t 2 ng\u00f3n tay t\u1eeb thanh tr\u1ea1ng th\u00e1i \u0111\u1ec3 ch\u1ee5p \u1ea3nh m\u00e0n h\u00ecnh.\r\n- Tu\u1ef3 ch\u1ec9nh cho t\u1eebng \u1ee9ng d\u1ee5ng.",
+                    "useBoldText": true,
+                    "title": "markdown-description",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2020.8.25",
+                    "title": "Version"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "09-02-2020",
+                    "title": "Released"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Free",
+                    "title": "Price"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Hius",
+                    "title": "Developer"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "tabname": "Details"
+        }
+    ],
+    "minVersion": "0.1",
+    "headerImage": "",
+    "tintColor": "#0657bb",
+    "class": "DepictionTabView"
 }
