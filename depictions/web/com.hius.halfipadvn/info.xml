@@ -1,0 +1,66 @@
+<package>
+	<id>com.hius.halfipadvn</id>
+	<name>HalFiPad VN</name>
+	<version>2020.8.25</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<shortDescription>Mang cử chỉ hiện đại và nhiều tính năng độc đáo đến iPhone của bạn.</shortDescription>
+	<descriptionlist>
+		<description>Tính năng:</description>
+		<description><![CDATA[
+- Cử chỉ iPhone X(bao gồm chỉ dùng cử bên trái hoặc bên phải).<br/>
+- Cử chỉ thu nhỏ(tương tự cử chỉ iPhone X): Giảm khả năng chuyển đổi ứng dụng nhanh chóng khi vuốt sang trái hoặc phải ở cạnh dưới.<br/>
+- Vuốt cử chỉ 2 lần để đa nhiệm hoặc ra màn hình chính.<br/>
+- Thanh trạng thái: iPad, iPhone X, iPhone X*-11* đã hiệu chỉnh và mặc định.<br/>
+- Tuỳ chỉnh phần trăm pin.<br/>
+- Nâng đáy(Bottom Inset), Bo tròn Dock và thẻ đa nhiệm ứng dụng, bo tròn góc màn hình.<br/>
+- Tuỳ chỉnh thanh home.<br/>
+- Hoạt ảnh khi tắt CC, Thanh gợi ý CC, thanh trạng thái trong CC (CC: trung tâm điều khiển).<br/>
+- Kết hợp phím chụp ảnh màn hình như iPhone X.<br/>
+- Các phím tắt bật Camera + Đèn Flash nhanh ở ngoài màn hình khoá.<br/>
+- Tắt/Bật phần quay lại nhanh ứng dụng trước đó (No Breadcrumbs).<br/>
+- Tính năng iPad: Dock kiểu iPad, Chia màn hình, Ứng dụng xoay ngang kiểu iPad, Thẻ đa nhiểm kiểu iPad, Thu nhỏ/Hiện trình phát video ở mọi nơi (Picture in Picture).<br/>
+- Bàn phím nền tối, Bàn phím cao hơn (tuỳ chỉnh độ cao bàn phím), Sửa lỗi cho bàn phím kiểu chữ non-latin, Không dùng cử chỉ khi dùng bàn phím.<br/>
+- Giao diện camera như iPhone 11(thử nghiệm), Điều khiển thu phóng và lật camera kiểu mới.<br/>
+- FaceID + Ổ khoá hiển thị như iPhone X.<br/>
+- Hoạt cảnh mở ứng dụng nhanh.<br/>
+- Cho phép khoá xoay ngang màn hình.<br/>
+- Ẩn tên ứng dụng, chấm trang, thông tin thời tiết.<br/>
+- Tăng số biểu tượng Dock.<br/>
+- Dock trong suốt.<br/>
+- Biểu tượng nằm yên khi mở khoá màn hình.<br/>
+- Giảm 1 hàng biểu tượng trên màn hình chính.<br/>
+- Vuốt 2 ngón tay từ thanh trạng thái để chụp ảnh màn hình.<br/>
+- Tuỳ chỉnh cho từng ứng dụng.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>w.png</image>
+		</screenshot>
+		<screenshot>
+			<image>s1.png</image>
+		</screenshot>
+		<screenshot>
+			<image>s2.png</image>
+		</screenshot>
+		<screenshot>
+			<image>s3.png</image>
+		</screenshot>
+		<screenshot>
+			<image>s4.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>V2020.8.25</change>
+		<change>Sửa lỗi, cải tiến.</change>
+	</changelog>
+</package>

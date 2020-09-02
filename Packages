@@ -1,0 +1,240 @@
+Package: com.hius.halfipad
+Name: HalFiPad
+Version: 3.5.6
+Architecture: iphoneos-arm
+Description: Modern gestures, iPad features, and many unique features but lightweight and less battery drain.
+Maintainer: Hius <h.h.haiduog@gmail.com>
+Author: Hius <h.h.haiduog@gmail.com>
+Section: Tweaks
+Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipadvn
+Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
+Filename: debs/com.hius.halfipad_3.5.6_iphoneos-arm.deb
+Size: 56054
+MD5sum: 01056c91cdf373755e43f39dc6f2982a
+SHA1: e7f5a0053bd0e690177398a1e017f92f9677498c
+SHA256: 8e02609e904f6e2f80119a40268af96804fc3894620babaa31ec67b0eb76e5c4
+
+
+Package: com.hius.halfipad
+Name: HalFiPad
+Version: 3.6.1
+Architecture: iphoneos-arm
+Description: Modern gestures, iPad features, and many unique features but lightweight and less battery drain.
+Maintainer: Hius <h.h.haiduog@gmail.com>
+Author: Hius <h.h.haiduog@gmail.com>
+Section: Tweaks
+Depiction: https://cypous.github.io/depictions/web/?p=com.hius.halfipad
+SileoDepiction: https://cypous.github.io/repo/depictions/native/com.hius.halfipad/depiction.json
+Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipadvn
+Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
+Filename: debs/com.hius.halfipad_3.6.1_iphoneos-arm.deb
+Size: 70540
+MD5sum: 2d8bc9170e9f574fd396d6aa573ae523
+SHA1: 295db0a784d025934467fb507d24cc5d67221d84
+SHA256: a51bfd866f1db924373727755dbaa72c6c1d0726eee35cd0e4dff3e8ba5280a7
+
+
+Package: com.hius.halfipadvn
+Name: HalFiPad VN
+Version: 2020.8.23
+Architecture: iphoneos-arm
+Description: Cử chỉ hiện đại, tính năng iPad, và nhiều tính năng độc đáo khác, nhẹ và tiêu hao ít năng lượng.
+Maintainer: Hius <h.h.haiduog@gmail.com>
+Author: Hius <h.h.haiduog@gmail.com>
+Section: Tweaks
+Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipad
+Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
+Filename: debs/com.hius.halfipadvn_2020.8.23_iphoneos-arm.deb
+Size: 56392
+MD5sum: 916ca9fb5021c178a1b5180b1954cbb5
+SHA1: abfaecdd53303f0edab9d2f18a8753f816c10e7a
+SHA256: 988a7d80f0ded03a472ca51883da084bdc3bb080a03e2055d3bc9c002b168452
+
+
+Package: com.hius.halfipadvn
+Name: HalFiPad VN
+Version: 2020.8.25
+Architecture: iphoneos-arm
+Description: Cử chỉ hiện đại, tính năng iPad, và nhiều tính năng độc đáo khác, nhẹ và tiêu hao ít năng lượng.
+Maintainer: Hius <h.h.haiduog@gmail.com>
+Author: Hius <h.h.haiduog@gmail.com>
+Section: Tweaks
+Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipad
+Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
+Filename: debs/com.hius.halfipadvn_2020.8.25_iphoneos-arm.deb
+Size: 70910
+MD5sum: bd1ad23078507792ab45af90297b882c
+SHA1: 171140e3402cd3bc93d3d6c4dc2352e9b9ad919d
+SHA256: e0f57dda6cf33dd480446ea27217514b31bd0ef8c20b440c743bc4eade4c9939
+
+
+Package: com.hius.gesturesi11
+Name: Gesturesi11
+Version: 3.5.2
+Architecture: iphoneos-arm
+Description: Modern gestures, lightweight and less battery drain.
+Maintainer: Hius <h.h.haiduog@gmail.com>
+Author: Hius <h.h.haiduog@gmail.com>
+Section: Tweaks
+Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.gesturesi11vn
+Icon: https://raw.githubusercontent.com/v-hius/Gesturesi11/master/Gesturesi11Prefs/Resources/icon%402x.png
+Filename: debs/com.hius.gesturesi11_3.5.2_iphoneos-arm.deb
+Size: 23438
+MD5sum: 4806d627f31fa2914ac0f349332dfbca
+SHA1: f33772237d2c58594b2bc2d30ed6d7db34caf357
+SHA256: 3c97b3833a198e0f9d85dd1469b27f6e9dfb1424f21eaa560c01e7f34f325676
+
+
+Package: com.hius.gesturesi11
+Name: Gesturesi11
+Version: 3.5.3
+Architecture: iphoneos-arm
+Description: Modern gestures, lightweight and less battery drain.
+Maintainer: Hius <h.h.haiduog@gmail.com>
+Author: Hius <h.h.haiduog@gmail.com>
+Section: Tweaks
+Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.gesturesi11vn
+Icon: https://raw.githubusercontent.com/v-hius/Gesturesi11/master/Gesturesi11Prefs/Resources/icon%402x.png
+Filename: debs/com.hius.gesturesi11_3.5.3_iphoneos-arm.deb
+Size: 24010
+MD5sum: 05c89df5d3f57ec9d97070c503514d8a
+SHA1: 088cae61efbb86dc0e8b83ae878ffe857924d646
+SHA256: f870aac020a56cba4cac21e109b0afc19f5e5985ef67ea9682194694240fbca4
+
+
+Package: com.hius.gesturesi11vn
+Name: Gesturesi11 VN
+Version: 2020.8.19
+Architecture: iphoneos-arm
+Description: Cử chỉ hiện đại, nhẹ và ít hao pin.
+Maintainer: Hius <h.h.haiduog@gmail.com>
+Author: Hius <h.h.haiduog@gmail.com>
+Section: Tweaks
+Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.gesturesi11
+Icon: https://raw.githubusercontent.com/v-hius/Gesturesi11/master/Gesturesi11Prefs/Resources/icon%402x.png
+Filename: debs/com.hius.gesturesi11vn_2020.8.19_iphoneos-arm.deb
+Size: 24212
+MD5sum: fadfa0bd44e5573c1cdf222538b8b8d1
+SHA1: 05161fbf381d107fcad8cd84bc0549d3a13a70f6
+SHA256: 4bf027e32dd35cb0b41086c1dc2dba6648ee097ad7575b6727bc3852cfd211a6
+
+
+Package: com.hius.simplex
+Name: SimpleX
+Version: 2
+Architecture: iphoneos-arm
+Description: Cử chỉ hiện đại, nhẹ và ít hao pin.
+Maintainer: Hius <h.h.haiduog@gmail.com>
+Author: Hius <h.h.haiduog@gmail.com>
+Section: Tweaks
+Icon: https://raw.githubusercontent.com/v-hius/Gesturesi11/master/Gesturesi11Prefs/Resources/icon%402x.png
+Filename: debs/com.hius.simplex_2_iphoneos-arm.deb
+Size: 3198
+MD5sum: 9535f03703d1a161f675797b192d0c2d
+SHA1: df9f4d5390db64f76ad4a49be9911a4682820fc6
+SHA256: 8fd264d2f44362bd06e35fa802738ef1dd6f79a31cd3e03d9fc484019e1b7b88
+
+
+Package: com.hius.fbdarknative
+Name: FBDarkNative
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Facebook native dark mode. Fixed status bar.
+Maintainer: Hius <h.h.haiduog@gmail.com>
+Author: Hius <h.h.haiduog@gmail.com>
+Section: Tweaks
+Filename: debs/com.hius.fbdarknative_1.0_iphoneos-arm.deb
+Size: 4466
+MD5sum: 9b0a7169413a481237a0128c933b6d2d
+SHA1: 95b069f6d87b42d9a973935ecbf8d20a993aac57
+SHA256: 96cd2d1e97306eb6ff18b42fc7f1ecb20aca415a69efeca95bef7e0931d2eb5f
+
+
+Package: com.hius.ymf
+Name: YMF
+Version: 1.2.0-1
+Architecture: iphoneos-arm
+Description: Remove some ads on Facebook, Youtube, Messenger, Reddit, Twitter, Instagram.
+Maintainer: Hius <h.h.haiduog@gmail.com>
+Author: Hius <h.h.haiduog@gmail.com>
+Section: Tweaks
+Filename: debs/com.hius.ymf_1.2.0-1_iphoneos-arm.deb
+Size: 11014
+MD5sum: 8a2a21ca876dfe317b8e0a8e982f361d
+SHA1: 149c43cfd4e20c55b689b479004c646a7543bfe5
+SHA256: 77810749f206859a5c2d31735bc9d2ce7ef0b02104492fb98d41d85a4270b22e
+
+
+Package: com.hius.avlock13
+Name: AVLock13
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Add lock orientation button in video play and support landscape orientation lock - beta - some bugs.
+Maintainer: Hius <h.h.haiduog@gmail.com>
+Author: Hius <h.h.haiduog@gmail.com>
+Section: Tweaks
+Filename: debs/com.hius.avlock13_1.0-1+debug_iphoneos-arm.deb
+Size: 15008
+MD5sum: 1d913200501848a8a04ab66da3cf874e
+SHA1: aeb3ffb67aabe2183b9f0103b37f373701370c24
+SHA256: 364345ab7b07ba1230ae280af68e2629ccbf3a055934691c7d8632a514d617d0
+
+
+Package: com.hius.iproxi
+Name: iPro XI
+Version: 1.1.1
+Architecture: iphoneos-arm
+Description: Modern gestures and many unique features.
+Maintainer: Hius <h.h.haiduog@gmail.com>
+Author: Hius <h.h.haiduog@gmail.com>
+Section: Tweaks
+Filename: debs/com.hius.iproxi_1.1.1_iphoneos-arm.deb
+Size: 25804
+MD5sum: 185c42e2a893156518d2bea0766e39be
+SHA1: 9cc5db2cab4761fbf34989165e81858b4ae45ba2
+SHA256: 5aed4cd5180fe903cd6849425907ab16d10eaf528a670f13e3bd02878438b0c7
+
+
+Package: com.hius.iproxi
+Name: iPro XI
+Version: 2.0.0
+Architecture: iphoneos-arm
+Description: Modern gestures and many unique features.
+Maintainer: Hius <h.h.haiduog@gmail.com>
+Author: Hius <h.h.haiduog@gmail.com>
+Section: Tweaks
+Filename: debs/com.hius.iproxi_2.0.0_iphoneos-arm.deb
+Size: 67518
+MD5sum: d10c649fd78a684257306255959f06ec
+SHA1: 6f6319df6626754ad6904a7ce1dbc23e99740791
+SHA256: 829b31b0e25c8fa31c4462af0527c0ad7e57638a0fea55a19569a62d10ba29fb
+
+
+Package: com.hius.noswipekeyboard13
+Name: NoSwipeKeyboard13
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Disable gestures when using keyboard.
+Maintainer: Hius <h.h.haiduog@gmail.com>
+Author: Hius <h.h.haiduog@gmail.com>
+Section: Tweaks
+Filename: debs/com.hius.noswipekeyboard13_1.2_iphoneos-arm.deb
+Size: 4178
+MD5sum: d610af2830616f42ee9b214dcd5bc5a9
+SHA1: bdd72a6f416fb819955aa4ee25c06e950a147c4a
+SHA256: b8ae93d8519ef5c445caf108dd3d8a32a794b7050d0ff14b920b45f8a061f9a6
+
+
+Package: com.pantsthief.flexing
+Name: FLEXing
+Version: 1.2.0
+Architecture: iphoneos-arm
+Description: Disable gestures when using keyboard.
+Maintainer: Tanner Bennett
+Author: Tanner Bennett
+Section: Tweaks
+Filename: debs/com.pantsthief.flexing_1.2.0.deb
+Size: 14848
+MD5sum: 76bdf47e87cd9169db4a656348190b5c
+SHA1: 7ab58ec18a35e9a781c40c7325109bc2b9c43041
+SHA256: 142904c8de2764df8e5c6b2b087883f384ad3372007d0d4465d1d6cd92b2586a

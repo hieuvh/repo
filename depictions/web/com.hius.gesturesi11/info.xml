@@ -1,0 +1,40 @@
+<package>
+	<id>com.hius.gesturesi11</id>
+	<name>Gesturesi11</name>
+	<version>3.5.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<shortDescription>Bring modern gestures to your iPhone.</shortDescription>
+	<descriptionlist>
+		<description>Features:</description>
+		<description><![CDATA[
+- iPhone X gestures.<br/>
+- Miniature(similar iPhone X gestures): Reduce the ability to switch applications quickly when swiping left or right on the bottom edge.<br/>
+- Status Bar: iPhone X, Calibrate, and Regular.<br/>
+- Battery Percentage Custom.<br/>
+- Bottom Inset, Rounded Dock-App Switcher, Screen Corner.<br/>
+- Home Bar.<br/>
+- CC Status Bar.<br/>
+- Screenshot buttons combination like iPhone X.<br/>
+- Lockscreen Shortcuts.<br/>
+- No Breadcrumbs.<br/>
+- Dark Keyboard, Higher Keyboard, Non-Latin Keyboard (fix conflict right padding), No Gesture When Keyboard.<br/>
+- Zoom and Flip Control like iPhone 11.<br/>
+- Reduce Rows.<br/>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change>V3.5.2</change>
+		<change>Fix bugs.</change>
+	</changelog>
+</package>

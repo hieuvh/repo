@@ -1,0 +1,19 @@
+<changelog>
+	<changes>
+		<version>3.6.1</version>
+		<change>Fix bugs and improve preferences.</change>
+	</changes>
+	<changes>
+		<version>3.5.6</version>
+		<change>Fix blank preferences.</change>
+	</changes>
+	<changes>
+		<version>3.5.0</version>
+		<change>- Add Edge Protect (double swipe to gesture).</change>
+		<change>- Add height keyboard custom (height + bound) for Higher Keyboard.</change>
+		<change>- Add CC Animation, Camera Bottom Inset.</change>
+		<change>- New respring stuff.</change>
+		<change>- Optimization + Fix bugs.</change>
+		<change>- Change some things.</change>
+	</changes>
+</changelog>
